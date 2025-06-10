@@ -4,11 +4,10 @@ An image classification model that accurately categorizes images into predefined
 Tech Stack
 Python 🐍
 
-NumPy, Pandas, Matplotlib 📊
-
-TensorFlow / Keras or PyTorch 🔥
+NumPy, Scikit-learn, Scikit-image
 
 OpenCV (for preprocessing, optional)
+
 
 Training Accuracy: 98%
 
